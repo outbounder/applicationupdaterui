@@ -182,6 +182,7 @@
 				
 				<s:TextArea
 					id="releaseTxt"
+					editable="false"
 					width="100%"
 					height="60"
 					color="#525252"

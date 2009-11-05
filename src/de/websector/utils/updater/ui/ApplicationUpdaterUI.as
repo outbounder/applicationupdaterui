@@ -806,7 +806,7 @@ package de.websector.utils.updater.ui
 			 * @return 	String	Version of application
 			 * 
 			 */		
-			private function getApplicationVersion():String
+			public function getApplicationVersion():String
 			{
 				var appXML:XML = NativeApplication.nativeApplication.applicationDescriptor;
 				var ns:Namespace = appXML.namespace();

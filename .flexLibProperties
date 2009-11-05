@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" version="3">
+  <includeClasses>
+    <classEntry path="com.adobe.utils.LocaleId"/>
+    <classEntry path="com.adobe.utils.LocaleParserState"/>
+    <classEntry path="com.adobe.utils.LocaleRegistry"/>
+    <classEntry path="com.adobe.utils.LocaleUtil"/>
+    <classEntry path="de.websector.utils.updater.ui.ApplicationUpdaterUI"/>
+    <classEntry path="de.websector.utils.updater.ui.skins.firefox.AppUpdaterUIFirefoxSkin"/>
+    <classEntry path="de.websector.utils.updater.ui.skins.firefox.ButtonSkin"/>
+    <classEntry path="de.websector.utils.updater.ui.skins.firefox.ProgressBarSkin"/>
+    <classEntry path="de.websector.utils.updater.ui.skins.firefox.ProgressBarTrackSkin"/>
+    <classEntry path="de.websector.utils.updater.ui.skins.silver.AppUpdaterUISilverSkin"/>
+    <classEntry path="de.websector.utils.updater.ui.skins.silver.ButtonSkin"/>
+    <classEntry path="de.websector.utils.updater.ui.skins.silver.ProgressBarSkin"/>
+    <classEntry path="de.websector.utils.updater.ui.skins.silver.ProgressBarTrackSkin"/>
+    <classEntry path="de.websector.utils.updater.ui.skins.standard.AppUpdaterUIStandardSkin"/>
+    <classEntry path="de.websector.utils.updater.ui.skins.standard.ButtonSkin"/>
+    <classEntry path="de.websector.utils.updater.ui.skins.standard.ProgressBarSkin"/>
+    <classEntry path="de.websector.utils.updater.ui.skins.standard.ProgressBarTrackSkin"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests>
+    <namespaceManifestEntry manifest="../manifest.xml" namespace="http://websector.de"/>
+  </namespaceManifests>
+</flexLibProperties>
